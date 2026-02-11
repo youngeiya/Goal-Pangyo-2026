@@ -7,6 +7,7 @@ class extends A{
     System.out.println(200);
   }
   B(int v){
+    this("aa");
     System.out.println(300);
   }
 }
